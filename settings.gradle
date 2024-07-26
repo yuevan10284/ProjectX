@@ -9,4 +9,4 @@ pluginManagement {
     }
 }
 
-include 'app1', 'app2', 'shared'
+include 'scraper-app', 'shared'
