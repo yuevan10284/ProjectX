@@ -1,5 +1,7 @@
 .vscode
 myenv
 test_request.py
+get
 response.txt
 *.txt
+certs
